@@ -17,7 +17,7 @@ We decided on the ["LifX"](https://www.lifx.com/) range of RGB LED bulbs for the
 But that's not what we're doing.
 
 ## Further Reading
-* ["That LifX Smart Lightbulb Hack Wasn't Easy"](https://securityledger.com/2014/07/that-lifx-smart-lightbulb-hack-wasnt-easy/)
-* ["Controlling Lights With BASH"](https://community.lifx.com/t/controlling-lights-with-bash/31/4)
-* ["CMD Line Tool for LifX"](https://github.com/MichaelAquilina/lifx-cmd)
-* ["Hacking Into Internet Connected Light Bulbs"](https://www.contextis.com/resources/blog/hacking-internet-connected-light-bulbs/)
+* [That LifX Smart Lightbulb Hack Wasn't Easy](https://securityledger.com/2014/07/that-lifx-smart-lightbulb-hack-wasnt-easy/)
+* [Controlling Lights With BASH](https://community.lifx.com/t/controlling-lights-with-bash/31/4)
+* [CMD Line Tool for LifX](https://github.com/MichaelAquilina/lifx-cmd)
+* [Hacking Into Internet Connected Light Bulbs](https://www.contextis.com/resources/blog/hacking-internet-connected-light-bulbs/)
