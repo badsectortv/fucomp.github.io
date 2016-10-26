@@ -12,9 +12,9 @@ categories: thinks internet-of-shitty-things vanity
 
 !["Bang!"](http://media.fuckyou.computer/exploding-bulb.gif)
 
-We decided on the ["LifX"](https://www.lifx.com/) range of RGB LED bulbs for the simple reason that it was the first set of IoT bulbs that was hacked remotely, they don't rely on a hub and they, like me, are cheap. In their defense the firmware has already been patched but I imagine that all the negative press due to the hack hasn't done their sales too much good. Still, it appears as though they're still in the game and after reading through their documentation I can't fault their dedication to security. If we weren't completely disregarding the EULA expressly to hack the machines to do our bidding then I'd be tempted to use their nice little API for doing stuff at home.
+We decided on something like the [Northtime](http://gzyigang.en.made-in-china.com/product/pvtQfKqJJFcU/China-Rgbww-RF-WiFi-LED-Dimmable-Remote-Controller-LED-Bulb.html) RGB LED bulb for the simple reason that although it was not the first set of IoT bulbs that was hacked remotely, they don't rely on a hub and they, like me, are cheap. Also another consideration was that the cheaper the unit we could find would probably have less stringent security.
 
-But that's not what we're doing.
+I did some preliminary research into [LifX](http://www.lifx.com/), even going so far as to install and decompile their Android app which was interesting for several reasons but after their recent wifi password hack they've beefed up their already substantial security to put it out of reach of a simple amateur.
 
 ## Further Reading
 * [That LifX Smart Lightbulb Hack Wasn't Easy](https://securityledger.com/2014/07/that-lifx-smart-lightbulb-hack-wasnt-easy/)
